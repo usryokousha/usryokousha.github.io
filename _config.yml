@@ -23,15 +23,11 @@ email: us.ryokousha@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The world is a beautiful and interesting place, and every so often we all  
   we have sudden epiphanies about it. This is a place to share those epiphanies.
-  
-  My name is Matt Smith, and I am a computer vision engineer. In my my daily life I  
-  find parallels with between my work and how people behave.  I also like to review  
-  the occasional latest paper in the field, and I will share my thoughts on those here as well.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: mikuk84
+github_username:  usryokousha
 
 # Build settings
 theme: minima

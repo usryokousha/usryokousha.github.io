@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Matt Smith, and I am a computer vision engineer. In my my daily life I  
+find parallels with between my work and how people behave.  I also like to review  
+the occasional latest paper in the field, and I will share my thoughts on those here as well.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
